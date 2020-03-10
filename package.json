@@ -79,7 +79,7 @@
     "type-detect": "4.0.5"
   },
   "engines": {
-    "node": "~8.8.1"
+    "node": "~12.16.1"
   },
   "nyc": {
     "reporter": [
